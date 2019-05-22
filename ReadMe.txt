@@ -1,5 +1,9 @@
 Project 3 - The Air that I Breathe - CS 424 Visualization Analytics - Spring'19
 
+This appilcation is used to query the Temperature, Light, Humidity and various pollutants data dynamically in real-time through API calls for different locations across the Chicago area.
+
+Purpose of this project:
+
 Will you need your snow boots tonight? Should you bring an umbrella? Accurate weather predictions 
 are important for planning our day-to-day activities. Weather forecasting helps us to make more 
 informed daily decisions, and may even help keep us out of danger.
